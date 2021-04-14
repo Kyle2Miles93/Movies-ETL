@@ -1,5 +1,6 @@
 .gitattributes
 .ipynb_checkpoints
+.DS_Store
 
 # Adding config.py file
 config.py
